@@ -1,1 +1,3 @@
-# Counter_Strike_Helper-External
+# Syfer-eng's Counter Strike External
+Have Fun
+Still working on things...
